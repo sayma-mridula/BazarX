@@ -259,16 +259,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-> _Screenshots will be added here soon._
-
-<!-- 
-![Home Page](screenshots/home.png)
-![Collection Page](screenshots/collection.png)
-![Admin Dashboard](screenshots/admin.png)
--->
-
 ---
 
 ## 🤝 Contributing
