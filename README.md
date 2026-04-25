@@ -1,26 +1,8 @@
-# 🛒 MERN E-Commerce Website
+# 🛒 BazarX
 
 A full-stack e-commerce web application built with the **MERN Stack** (MongoDB, Express.js, React, Node.js). This project includes a customer-facing storefront, an admin dashboard for managing products and orders, and a robust backend API with multiple payment gateway integrations.
 
----
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
-  - [Running the App](#running-the-app)
-- [API Endpoints](#-api-endpoints)
-- [Payment Integrations](#-payment-integrations)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
 
 ## ✨ Features
 
@@ -307,6 +289,3 @@ This project is licensed under the **ISC License**.
 
 ---
 
-<p align="center">
-  Made with ❤️ using the MERN Stack
-</p>
